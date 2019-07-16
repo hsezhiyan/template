@@ -1,7 +1,5 @@
 ========
-Usage
+Installation
 ========
 
-To use this template, simply update it::
-
-	import read-the-docs-template
+The following is a detailed installation for the codebase.
