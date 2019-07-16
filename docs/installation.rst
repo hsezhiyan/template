@@ -2,6 +2,17 @@
 Installation
 ============
 
-Install the package with pip::
+Conda is the recommended environment manager. 
 
-    $ pip install read-the-docs-template
+After installing conda, create and activate an environment by running::
+	
+	$ conda create --name rl-env
+	$ conda activate rl-env
+
+::
+
+Once inside this environment, run::
+
+	$ ./setup.sh
+
+::
